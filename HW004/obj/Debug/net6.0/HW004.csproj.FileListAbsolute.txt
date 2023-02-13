@@ -1,0 +1,15 @@
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\bin\Debug\net6.0\HW004.exe
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\bin\Debug\net6.0\HW004.deps.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\bin\Debug\net6.0\HW004.runtimeconfig.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\bin\Debug\net6.0\HW004.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\bin\Debug\net6.0\HW004.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.csproj.AssemblyReference.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.AssemblyInfoInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.AssemblyInfo.cs
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\refint\HW004.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\HW004.genruntimeconfig.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW004\obj\Debug\net6.0\ref\HW004.dll
