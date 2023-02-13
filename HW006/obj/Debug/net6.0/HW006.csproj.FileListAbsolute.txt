@@ -1,0 +1,15 @@
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\bin\Debug\net6.0\HW006.exe
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\bin\Debug\net6.0\HW006.deps.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\bin\Debug\net6.0\HW006.runtimeconfig.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\bin\Debug\net6.0\HW006.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\bin\Debug\net6.0\HW006.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.csproj.AssemblyReference.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.AssemblyInfoInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.AssemblyInfo.cs
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\refint\HW006.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\HW006.genruntimeconfig.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW006\obj\Debug\net6.0\ref\HW006.dll
