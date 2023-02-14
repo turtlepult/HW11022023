@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW006\\HW007.csproj",
+      "projectUniqueName": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW007\\HW007.csproj",
       "projectName": "HW007",
-      "projectPath": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW006\\HW007.csproj",
+      "projectPath": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW007\\HW007.csproj",
       "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW006\\obj\\",
+      "outputPath": "C:\\Users\\vanya\\Documents\\homeworkGB\\HW-11-02-2023\\HW007\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"

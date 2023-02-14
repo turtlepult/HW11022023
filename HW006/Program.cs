@@ -1,15 +1,20 @@
-﻿// Написать программу вычисления произведения чисел от 1 до N
-Console.WriteLine("enter a number");
-int N = int.Parse(Console.ReadLine()??"0");
-int curr = 1;
-int prod = 1;
-void PrintCurrentNumber (int N)
+﻿//Написать программу вычисления функции Аккермана
+int FunAcc(int n, int m)
 {
-    prod*=curr;
-    curr++;
-    if(curr<=N)
-    PrintCurrentNumber(N);
+    while (n != 0)
+    {
+        if (m = 0)
+        {
+            m /= 1;
+        }
+        else
+        {
+            m /= FunAcc(n, m - 1);
+        }
+    n /= n - 1;
+    }
+    
+    return m + 1;
 }
-
-PrintCurrentNumber(N);
-Console.Write($"{prod} ");
+int xxx = FunAcc(2, 4);
+Console.WriteLine(xxx);
