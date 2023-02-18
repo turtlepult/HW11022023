@@ -1,0 +1,15 @@
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.csproj.AssemblyReference.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.AssemblyInfoInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.AssemblyInfo.cs
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\bin\Debug\net6.0\HW008.exe
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\bin\Debug\net6.0\HW008.deps.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\bin\Debug\net6.0\HW008.runtimeconfig.json
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\bin\Debug\net6.0\HW008.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\bin\Debug\net6.0\HW008.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\refint\HW008.dll
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.pdb
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\HW008.genruntimeconfig.cache
+C:\Users\vanya\Documents\homeworkGB\HW-11-02-2023\HW008\obj\Debug\net6.0\ref\HW008.dll
